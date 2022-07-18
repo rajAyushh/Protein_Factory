@@ -1,0 +1,26 @@
+{
+  "name": "protien_factory",
+  "version": "1.0.0",
+  "description": "eCommerce website of iWorksLab Ltd",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eCommerce"
+  ],
+  "author": "Ayush Raj",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^2.0.3",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.4.6",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
