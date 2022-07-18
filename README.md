@@ -20,6 +20,15 @@ E-commerce website for iWorksLab Ltd. Protein Factory.
 
 ## Setup
 Download the above Languages and Tools
+## Run build for production
+
+```
 Open Terminal at Folder
-type npm i in terminal to Install Dependencies
-then npm start
+$ npm start
+Install Dependencies
+
+## Run build for production
+
+```
+$ npm start
+```
